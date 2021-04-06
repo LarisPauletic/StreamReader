@@ -1,0 +1,7 @@
+C:\Users\Laris\source\repos\StreamReader\StreamReader\bin\Debug\StreamReader.exe.config
+C:\Users\Laris\source\repos\StreamReader\StreamReader\bin\Debug\StreamReader.exe
+C:\Users\Laris\source\repos\StreamReader\StreamReader\bin\Debug\StreamReader.pdb
+C:\Users\Laris\source\repos\StreamReader\StreamReader\obj\Debug\StreamReader.csprojAssemblyReference.cache
+C:\Users\Laris\source\repos\StreamReader\StreamReader\obj\Debug\StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\StreamReader\StreamReader\obj\Debug\StreamReader.exe
+C:\Users\Laris\source\repos\StreamReader\StreamReader\obj\Debug\StreamReader.pdb
